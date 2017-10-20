@@ -18,3 +18,10 @@ cabal.sandbox.config
 .stack-work/
 cabal.project.local
 .HTF/
+
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+
+Haskell_CheatSheet.pdf
